@@ -40,3 +40,10 @@
  .owl-carousel .owl-item img{
  	width:100%;	
  }
+
+ @media only screen and (max-width: 1000px) {
+   /*Remove image on responsive */
+   #donator_heading{
+    display:none;
+  }
+}
