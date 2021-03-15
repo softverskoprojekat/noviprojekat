@@ -1,0 +1,42 @@
+/* Add here all your CSS customizations */
+/*ABOUT US SEKCIJA*/
+.about_us_section{
+	width:100%;
+	background-image: url("../images/about_us_bg.jpg"); /* The image used */
+	background-position: center; /* Center the image */
+  	background-repeat: no-repeat; /* Do not repeat the image */
+  	background-size: cover; /* Resize the background image to cover the entire container */
+  	background-attachment: fixed;
+  	max-width:100%;
+}
+  
+.donator_section{
+	width:100%;
+	background-image: url("../images/donator_bg.jpg"); /* The image used */
+	background-position: center; /* Center the image */
+  	background-repeat: no-repeat; /* Do not repeat the image */
+  	background-size: cover; /* Resize the background image to cover the entire container */
+  	background-attachment: fixed;
+  	max-width:100%;
+}
+.statistic_section{
+	width:100%;
+	background-image: url("../images/statistic_bg.png"); /* The image used */
+	background-position: center; /* Center the image */
+  	background-repeat: no-repeat; /* Do not repeat the image */
+  	background-size: cover; /* Resize the background image to cover the entire container */
+  	background-attachment: fixed;
+  	max-width:100%;
+ }
+ .footer{
+ 	width:100%;
+	background-image: url("../images/footer_bg.png"); /* The image used */
+	background-position: center; /* Center the image */
+  	background-repeat: no-repeat; /* Do not repeat the image */
+  	background-size: cover; /* Resize the background image to cover the entire container */
+  	background-attachment: fixed;
+  	max-width:100%;
+ }
+ .owl-carousel .owl-item img{
+ 	width:100%;	
+ }
